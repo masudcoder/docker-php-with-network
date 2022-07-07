@@ -1,7 +1,7 @@
-#checkout
----Run
----docker compose rm -v
-  # press y and remove existing all container.
+#git checkout
+
+-docker compose rm -v
   
-  ### docker-compose up -d
+  
+ - docker-compose up -d
   
